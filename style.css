@@ -1,0 +1,16 @@
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('https://images.wallpaperscraft.com/image/bmw_steering_wheel_car_133785_1366x768.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .head{
+    background: rgb(45,96,44);
+background: radial-gradient(circle, rgba(45,96,44,0.9997811624649859) 12%, rgba(44,94,43,1) 28%, rgba(12,26,16,1) 63%, rgba(0,0,5,1) 100%);
+  }
+  .header{
+    background: rgb(34,214,150);
+    background: linear-gradient(277deg, rgba(34,214,150,1) 0%, rgba(34,214,150,1) 30%, rgba(70,111,119,1) 58%, rgba(34,214,150,1) 100%);
+  }
